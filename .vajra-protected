@@ -1,0 +1,4 @@
+# Files the coder MUST NOT modify. These pin the approved public interface
+# and the RED test contract authored at assign time.
+contract_test.go
+e2e_test.go
