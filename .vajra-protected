@@ -1,0 +1,15 @@
+# Protected contract surface for the `greeting` package feature.
+# These files define the APPROVED public interface and the RED tests that lock
+# the contract. The GREEN-phase implementer fills in the stubbed bodies of the
+# interface files but MUST NOT change the public signatures, the CLI I/O
+# contract, or any assertion in the test files below.
+
+# Approved public interfaces
+greeting/greeting.go
+cmd/greet/main.go
+
+# RED unit tests
+greeting/greeting_test.go
+
+# RED end-to-end test (real use case: build & run the CLI)
+e2e/greet_e2e_test.go

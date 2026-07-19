@@ -1,0 +1,10 @@
+vajra:
+    step: ""
+    attempt: 0
+    agent: system
+    produced_at: 2026-07-19T13:28:13.592794162Z
+    task: ""
+contract_ready: true
+pr_body_file: pr-body.md
+pr_title: 'feat(greeting): add greeting package and greet CLI (contract + RED tests)'
+tests_red: true
