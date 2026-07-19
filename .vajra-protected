@@ -1,0 +1,5 @@
+# Protected files owned by the leader for the duration of this milestone.
+# The coder must NOT modify these; they pin the public contract and the
+# end-to-end use case. One path per line (comments and blank lines ignored).
+contract_test.go
+e2e_test.go

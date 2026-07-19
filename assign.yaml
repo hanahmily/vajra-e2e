@@ -1,0 +1,9 @@
+vajra:
+    step: ""
+    attempt: 0
+    agent: system
+    produced_at: 2026-07-19T15:18:25.711360564Z
+    task: ""
+contract_gap_expectation: 0
+contract_ready: true
+issue_expectation: 0
