@@ -1,0 +1,3 @@
+# Files the coder MUST NOT modify. These pin the approved public interface.
+contract_test.go
+e2e_test.go
