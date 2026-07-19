@@ -1,0 +1,4 @@
+# Protected files for milestone-tdd: contract + e2e tests.
+# The coder must NOT modify these when implementing mathx.go.
+contract_test.go
+e2e_test.go
