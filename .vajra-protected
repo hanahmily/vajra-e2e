@@ -1,0 +1,6 @@
+# Protected contract files for task 20260719-144915-addagopackag.
+# The coder MUST NOT modify these files. They define the approved public
+# interface (via its RED tests) and the end-to-end use case. Implementation
+# proceeds by adding calc.go only.
+contract_test.go
+e2e_test.go
